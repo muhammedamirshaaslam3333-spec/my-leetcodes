@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |

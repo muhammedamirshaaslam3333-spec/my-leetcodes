@@ -1,0 +1,13 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var missingNumber = function(nums) {
+    n = nums.length
+    for(i =0 ; i<=n;i++){
+        if(!nums.includes(i)){
+            return i
+        }
+    }
+    
+};

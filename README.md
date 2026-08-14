@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -49,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

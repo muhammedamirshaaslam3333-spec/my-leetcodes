@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 ## Binary Search

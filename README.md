@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/muhammedamirshaaslam3333-spec/my-leetcodes/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
